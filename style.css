@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+   
+   
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px  white;
+    width: 100%;
+}
+
+.motivation{
+    width: 50%;
+    margin-left: 25%;
+}
